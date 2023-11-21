@@ -10,5 +10,7 @@ KOALA
 
 7. Guardamos el README y la imagen con git add y git commit -m
 8. El nombre de la imagen que he agregado es koala.jpeg, siendo ".jpeg" la extensión de la misma. 
-9. Ca
+9. Subimos la rama GitHub usando git remote add origin https://github.com/Ninjawarsgamine/repositorioexamen.git, git branch -M main git push -u origin main
+10. Pedimos un token y lo ingresamos en vez de la copntraseña. 
+11. Listo. 
 
